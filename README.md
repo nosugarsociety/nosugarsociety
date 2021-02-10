@@ -1,11 +1,7 @@
 ### Hi there, I am <a href="https://jusang.online/" target="_blank">Jusang!</a> 👋
 
-😀&nbsp;&nbsp; I'm __Jusang__, Creative and self-motivated software engineer has been building 
+😀&nbsp;&nbsp;Creative and self-motivated software engineer has been building 
 and improving products for 5 years with React, Javascript,  jQuery, HTML5, CSS. 
-
-👓&nbsp;&nbsp; I am always down to earth and open to learn and improve myself as developer.
-
-👀&nbsp;&nbsp; I'm currently learning and making it solid what I am interested in.
 
 ---
 

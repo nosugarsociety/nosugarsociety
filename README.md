@@ -25,11 +25,5 @@ and improving products for 5 years with React, Javascript,  jQuery, HTML5, CSS.
 ![React Native](https://img.shields.io/badge/-ReactNative-67dbf9?style=flat-square)
 ![GraphQl](https://img.shields.io/badge/-GraphQl-542c85?style=flat-square)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nosugarsociety&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosugarsociety&layout=compact" />
-</a>
-
- 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nosugarsociety&show_icons=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosugarsociety&layout=compact" />
